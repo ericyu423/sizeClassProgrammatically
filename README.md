@@ -82,7 +82,8 @@ rotate -> Landscape
                   }
 
 <p align="center">
+  <img src="https://github.com/ericyu423/sizeClassProgrammatically/blob/master/port.png" width="200"/>
   <img src="https://github.com/ericyu423/sizeClassProgrammatically/blob/master/land.png" width="350"/>
-  <img src="https://github.com/ericyu423/sizeClassProgrammatically/blob/master/port.png" width="150"/>
+  
 </p>
 
