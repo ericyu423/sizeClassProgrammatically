@@ -87,3 +87,9 @@ rotate -> Landscape
   
 </p>
 
+
+
+
+# Note: LeadingAnchor and TrailingAnchors
+
+   *In locales where the reading direction is right to left then 'leading' will be the right side and 'trailing' will be the left side.
